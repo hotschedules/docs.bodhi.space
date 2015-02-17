@@ -13,9 +13,8 @@ iOS 7.x, 8.x
 Android 4.x
 Windows Phone
 
-Step 1: Download Bodhi Installer and the Bodhi Mobile Application
+####Step 1: Download Bodhi Installer and the Bodhi Mobile Application
 
 Go to redbookconnect.bodhi.io to get the correct installer for your system
 
-![alt text](https://raw.githubusercontent.com/redbookconnect/docs.bodhi.space/master/images/image01.png "Logo Title Text 1")
-
+![alt text](https://raw.githubusercontent.com/redbookconnect/docs.bodhi.space/master/images/image151515151515151515151515151515
