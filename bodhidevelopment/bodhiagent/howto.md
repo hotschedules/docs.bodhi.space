@@ -17,4 +17,5 @@ Windows Phone
 
 Go to redbookconnect.bodhi.io to get the correct installer for your system
 
-![alt text](https://raw.githubusercontent.com/redbookconnect/docs.bodhi.space/master/images/image151515151515151515151515151515
+![alt text](https://raw.githubusercontent.com/redbookconnect/docs.bodhi.space/master/images/image15.png "Logo Title Text 1")
+
