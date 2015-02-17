@@ -1,14 +1,14 @@
-# H1 Agent Installer and Registration User Guide
+# Agent Installer and Registration User Guide
 Agent Installer and Registration User Guide
 
-# H2 Welcome to the User Guide for Installing and registering the Bodhi agent
+Welcome to the User Guide for Installing and registering the Bodhi agent
 
-System Requirements for computer
+### System Requirements for computer
 OS: Windows XP SP3, Windows 7, Windows 8.1
 Memory: 2GB or more
 Disk Space: 10 GB
 
-System requirements for Mobile
+### System requirements for Mobile
 iOS 7.x, 8.x
 Android 4.x
 Windows Phone
