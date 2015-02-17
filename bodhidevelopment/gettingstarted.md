@@ -1,16 +1,14 @@
 #Getting Started
 This documentation is intended for the developer wanting to integrate into the Bodhi PaaS and SaaS by:
 
-* Building applications to the the Cloud APIs we support
-* Building mobile/html applications either as standalone html applications or to be part of our Mobile Solution provided
+* Building applications to the the Bodhi Cloud APIs
+* Building mobile/html applications either as standalone html applications or to be part of Bodhi Mobile
 * Building a data integration application into your point of sale system to be stored and accessed from our cloud solution
 
 #Pre-requisites 
 
 ##### Creating a Namespace
 Contact your Redbook Connect [sales-team ](mailto:ayal.keren@redbookconnect.com) or [Customer Support ](https://www.hotschedules.com/customer-care/) 
-
-
 
 
 ##### What is a Namespace? 
@@ -25,5 +23,5 @@ You need to provide two important details for Red Book Connect [Representative](
 
 ####Accessing the API documentation
 
-The API Documentation can be found at here: [https://api.redbookcloud.com/apidocs/index.html](https://api.redbookcloud.com/apidocs/index.html)
-To access them you need to login with your user and password provided by HS.
+The API Documentation can be found at here: [https://api.bodhi.space/apidocs/index.html(https://api.bodhi.space/apidocs/index.html)
+To access them you need to login with your user and password provided by Hot Schedules.
