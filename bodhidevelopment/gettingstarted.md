@@ -23,5 +23,5 @@ You need to provide two important details for Red Book Connect [Representative](
 
 ####Accessing the API documentation
 
-The API Documentation can be found at here: [https://api.bodhi.space/apidocs/index.html(https://api.bodhi.space/apidocs/index.html)
+The API Documentation can be found at here: [https://api.bodhi.space/apidocs/index.html](https://api.bodhi.space/apidocs/index.html)
 To access them you need to login with your user and password provided by Hot Schedules.
