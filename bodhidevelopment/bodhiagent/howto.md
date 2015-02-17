@@ -1,5 +1,4 @@
 # Agent Installer and Registration User Guide
-Agent Installer and Registration User Guide
 
 Welcome to the User Guide for Installing and registering the Bodhi agent
 
