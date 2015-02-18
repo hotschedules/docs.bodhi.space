@@ -56,49 +56,49 @@ figure 5
 
 **Step 6:** Select the Next Button
 
-![alt text](/images/image08.png?raw=true "figure 6")
+![alt text](/images/image08.png?raw=true "figure 6")  
 figure 6
 
 **Step 7:**  Selecting the Destination location for the Agent
-*A default destination location is already provided for the agent. 
+  *A default destination location is already provided for the agent. 
 
-![alt text](/images/image03.png?raw=true "figure 7")
+![alt text](/images/image03.png?raw=true "figure 7")  
 figure 7
 
 **NOTE:** If this destination location is OK, then select the Next Button.  
 
-![alt text](/images/image09.png?raw=true "figure 8")
+![alt text](/images/image09.png?raw=true "figure 8")  
 figure 8
 
-**Go to Step 8
+**Go to Step 8**
 
-7a. If you wish to change the location of the destination location 
+7. If you wish to change the location of the destination location 
   *7a. Select the Browse Button
 
-![alt text](/images/image23.png?raw=true "figure 9")
+![alt text](/images/image23.png?raw=true "figure 9")  
 figure 9
 
   *7b. Select the folder you wish to install the Bodhi Agent into or you can open a different folder. 
 
-![alt text](/images/image07.png?raw=true "figure 10")
+![alt text](/images/image07.png?raw=true "figure 10")  
 figure 10
 
   *7c. After you have selected the folder
 
-![alt text](/images/image16.png?raw=true "figure 11")
+![alt text](/images/image16.png?raw=true "figure 11")  
 figure 11
 
   *7d. Select the OK Button
 
-![alt text](/images/image12.png?raw=true "figure 12")
+![alt text](/images/image12.png?raw=true "figure 12")  
 figure 12  
 
 The New destination location should be displayed  
 
-![alt text](/images/image03.png?raw=true "figure 13")
+![alt text](/images/image03.png?raw=true "figure 13")  
 figure 13  
 
   *7e. Select the Next Button to continue
 
-![alt text](/images/image09.png?raw=true "figure 14")
+![alt text](/images/image09.png?raw=true "figure 14")  
 figure 14  
