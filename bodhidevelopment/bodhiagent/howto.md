@@ -18,4 +18,33 @@ Windows Phone
 Go to redbookconnect.bodhi.io to get the correct installer for your system
 
 ![alt text](/images/image15.png?raw=true "figure  1")
+figure 1
 
+**NOTE:** if the system you are using to download the installer is not a Windows system you will get the Not Supported.
+
+Just select the Windows system that matches the system you will be installer the Bodhi Agent on.
+
+For the mobile applications here is where you can download them to your device.
+
+Bodhi Mobile - iOS			Apple Apps Store
+Bodhi Mobile - Android		Google Play Store
+
+**Step 2:**  Run the installer
+* You will be presented with the Installer Welcome screen.  
+* This will show the version number of the installer
+
+![alt text](/images/image16.png?raw=true "figure  2")
+figure 2
+
+**Step 3:** Select the Next button to move to the next Button
+
+![alt text](/images/image17.png?raw=true "figure  3")
+figure 3
+
+**Step 4:**  License agreement screen
+* The user needs to agree to the user agreement before proceeding.
+
+![alt text](/images/image18.png?raw=true "figure 4")
+figure 4
+
+**NOTE:** the Next Button will be greyed out, until the, I accept the agreement radio button is selected.
