@@ -102,3 +102,39 @@ figure 13
 
 ![alt text](/images/image09.png?raw=true "figure 14")  
 figure 14  
+**Step 14:** Select the POS Manager
+
+![alt text](/images/image19.png?raw=true "figure 26")
+figure 26
+
+**Step 15:** Select the the Plus Sign to add a POS to the Manager
+
+![alt text](/images/image14.png?raw=true "figure 27")
+figure 27
+
+**Step 16:** Select a store to associate the POS with.
+
+![alt text](/images/image21.png?raw=true "figure 28")
+figure 28
+
+**Step 17:** Enter the Activation code that is displayed in the Browser.
+
+![alt text](/images/image29.png?raw=true "figure 29")
+figure 29
+
+**Step 18:** Select the Request Button.
+
+![alt text](/images/image04.png?raw=true "figure 30")
+figure 30
+
+**Step 19:** Verify that POS agent with the selected store and is displayed
+
+![alt text](/images/image21.png?raw=true "figure 31")
+figure 31
+
+**Step 20:** The Browser will display the console dashboard
+  *A Success message will briefly flash on the screen
+  *The Registration Code Menu item will be removed
+  * The Dashboard will be displayed
+
+![alt text](/images/image05.png?raw=true "figure 32")
